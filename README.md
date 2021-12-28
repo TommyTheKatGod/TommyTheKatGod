@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TommyTheKatGod
+- 👀 I’m interested in Lua programming
+- 🌱 I’m currently learning advanced Lua
+- 📫 How to reach me: Neonotnemo@gmail.com
